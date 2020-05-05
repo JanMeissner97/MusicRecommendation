@@ -1,4 +1,4 @@
-# MusicRecommendation
+# Music Recommendation
 Simple chrome extension that generates music recommendations using last.fm.
 
 Enter your API Keys into the config.js from:
